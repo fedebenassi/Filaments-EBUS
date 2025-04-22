@@ -1,0 +1,10 @@
+chl_path : '/data01/benassi/export-biomass/data/processed/chl_2003-2023.zarr'
+sst_path : '/data01/benassi/export-biomass/data/processed/sst_2003-2023.zarr'
+bathy_path : '/data01/benassi/export-biomass/data/processed/bathymetry.nc'
+eudepth_path : '/data01/benassi/export-biomass/data/processed/sst_2003-2023.zarr'
+ref_depth : -1500
+c_to_chl_ratio : 50
+n_clusters : 4
+time_period:
+    start: '2003-01-01'
+    end: '2012-12-31'
