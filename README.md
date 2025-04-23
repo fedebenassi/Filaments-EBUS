@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/970529805.svg)](https://doi.org/10.5281/zenodo.15266662)
+
 Code and analysis used in the study:  
 **"Shelf water carbon export from the Atlantic and Pacific Eastern Boundary Upwelling Systems: a satellite-based approach"**  
 Submitted to *Geophysical Research Letters (GRL)*.
