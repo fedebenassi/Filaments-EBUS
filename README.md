@@ -6,7 +6,7 @@ Submitted to *Geophysical Research Letters (GRL)*.
 
 ## 📖 Overview
 
-This repository contains the core scripts and routines used to detect filamentary structures and analyze their role in offshore carbon export in the Eastern Boundary Upwelling systems (EBUS). The analysis is based on satellite-derived sea surface temperature (SST) and ocean color data (Chl-a and KD490).
+This repository contains the core scripts and routines used to detect filamentary structures and analyze their role in offshore carbon export in the Eastern Boundary Upwelling systems (EBUS). The analysis is based on satellite-derived sea surface temperature (SST) and ocean color data (Chl-a and KD490). Data can be found [here](https://zenodo.org/records/15194632).
 
 The methodology includes:
 - Preprocessing and masking of satellite fields  
