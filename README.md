@@ -17,5 +17,4 @@ The methodology includes:
 
 ## ⚠️ Data availability
 
-The input time series datasets (OC-CCI, MODIS-Aqua) and some of the produced datasets (e.g., data availability analysis) are not included in this repository due to size constraints.  
-Instructions to access the data and replicate key figures are provided in the notebooks and scripts.
+The raw input time series datasets (OC-CCI, MODIS-Aqua) aare not included in this repository due to size constraints, but instructions and scripts to download the datasets are available in the "download_process_files" folder.
