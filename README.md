@@ -1,10 +1,12 @@
+[![DOI](https://zenodo.org/badge/970529805.svg)](https://doi.org/10.5281/zenodo.15266662)
+
 Code and analysis used in the study:  
-**"Shelf water carbon export from the Atlantic and Pacific Eastern Boundary Upwelling Systems: a satellite-based approach"**  
+**"Shelf water carbon export from the Atlantic and Pacific Eastern Boundary Upwelling Systems: a satellite-based estimation"**  
 Submitted to *Geophysical Research Letters (GRL)*.
 
 ## 📖 Overview
 
-This repository contains the core scripts and routines used to detect filamentary structures and analyze their role in offshore carbon export in the Eastern Boundary Upwelling systems (EBUS). The analysis is based on satellite-derived sea surface temperature (SST) and ocean color data (Chl-a and KD490).
+This repository contains the core scripts and routines used to detect filamentary structures and analyze their role in offshore carbon export in the Eastern Boundary Upwelling systems (EBUS). The analysis is based on satellite-derived sea surface temperature (SST) and ocean color data (Chl-a and KD490). Data can be found [here](https://zenodo.org/records/15194632).
 
 The methodology includes:
 - Preprocessing and masking of satellite fields  
@@ -17,5 +19,3 @@ The methodology includes:
 
 The input time series datasets (OC-CCI, MODIS-Aqua) and some of the produced datasets (e.g., data availability analysis) are not included in this repository due to size constraints.  
 Instructions to access the data and replicate key figures are provided in the notebooks and scripts.
-
-If you are interested in accessing the preprocessed datasets, feel free to contact the authors.
