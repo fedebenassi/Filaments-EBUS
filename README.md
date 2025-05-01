@@ -17,4 +17,4 @@ The methodology includes:
 
 ## ⚠️ Data availability
 
-The raw input time series datasets (OC-CCI, MODIS-Aqua) aare not included in this repository due to size constraints, but instructions and scripts to download the datasets are available in the "download_process_files" folder.
+The raw input time series datasets (OC-CCI, MODIS-Aqua) are not included in this repository due to size constraints, but instructions and scripts to download the datasets are available in the "download_process_files" folder.
